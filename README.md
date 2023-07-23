@@ -8,4 +8,3 @@
 - BERT(Bidirection Encoder Representations from Transformers)
 
 
-
