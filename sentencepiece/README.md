@@ -118,3 +118,4 @@ $$p(x|π) = \prod_{n=1}^N \prod_{k=1}^K π_k^{x_{nk}}$$<br>
 ### reference
 [Reinforce NLP](https://paul-hyun.github.io/vocab-with-sentencepiece/)
 [SentencePiece GitHub](https://github.com/google/sentencepiece)
+[SentencePiece Paper](https://arxiv.org/pdf/1808.06226.pdf)
