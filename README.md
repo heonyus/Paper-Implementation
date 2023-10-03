@@ -3,6 +3,6 @@
 
 ## reference paper
 - [Sentencepiece](https://github.com/sparkerhoney/NLP-Paper-Implementation/tree/main/sentencepiece)
-- Transformer(Attention Is All You Need)
+- [Transformer(Attention Is All You Need)](https://github.com/sparkerhoney/NLP-Paper-Implementation/tree/main/Transformer)
 - GPT(Generative Pre-Traning)
 - BERT(Bidirection Encoder Representations from Transformers)
